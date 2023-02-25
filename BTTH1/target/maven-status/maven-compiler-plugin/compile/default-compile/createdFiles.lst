@@ -1,0 +1,7 @@
+com\annp\btth1\BTTH1.class
+com\annp\Entity\SaleOrder.class
+com\annp\Entity\Category.class
+com\annp\Entity\OrderDetail.class
+com\annp\btth1\HibernateUtils.class
+com\annp\Entity\Product.class
+com\annp\Entity\User.class
